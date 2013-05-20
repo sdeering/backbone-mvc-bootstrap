@@ -1,4 +1,4 @@
 backbone-mvc-bootstrap
 ======================
-
-backbone-model-view-controller-bootstrap
+Powered by require.js, backbone.js, backbone.layoutmanager.js, jquery.js, bootstrap.js, modernizr.js, underscore.js.
+samdeering (@samdeering)
